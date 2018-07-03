@@ -13,5 +13,5 @@ Function ('holidayCountdown') {
 }
 
 function () {
-  ('happyHolidayTo')
+  ('`Happy ${holiday}!`');
 }
