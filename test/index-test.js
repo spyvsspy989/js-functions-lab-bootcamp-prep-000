@@ -6,10 +6,10 @@ function ('happyholidays')
 ("Happy Holidays!")
 }
 Function ('happyHolidayTo')
-("Happy Holidays, `${name}!`");
+("Happy Holidays, `${name}`");
 }
 Function ('holidayCountdown') {
-  returns ('It's ${days} days until ${holiday}!');
+  returns ('It's ${days} days until ${holiday}');
 }
 
 function () {
